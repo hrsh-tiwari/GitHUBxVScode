@@ -7,7 +7,7 @@ Steps to use :
 
 - Extract the File in your prefered Location
 
-- Open following page on your Google Chrome ( [Chrome Extention](chrome://extensions/) )
+- Open Extensions on your Google Chrome
 
 - Drag the Extracted file to this Page 
 
